@@ -14,6 +14,9 @@ Proje içerisinde ki yapılan herşeyi adım adım http://ogzcakar.net/laravel-5
 # İçerik
 
 Laravel 5.2 Route Kullanımı
+
 Laravel 5.2 Controllar Kullanımı
+
 Laravel 5.2 View Kullanımı
+
 Laravel 5.2 Controllardan Viewe Veri Gönderimi
