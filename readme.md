@@ -10,3 +10,10 @@ Eğer Homestead kullanmıyorsanız projeniz public dizini içerisinde çalışac
 # Dökümantasyon & Anlatım
 
 Proje içerisinde ki yapılan herşeyi adım adım http://ogzcakar.net/laravel-5-2-ders-seti içerisinde bulabilirsiniz. 
+
+# İçerik
+
+Laravel 5.2 Route Kullanımı
+Laravel 5.2 Controllar Kullanımı
+Laravel 5.2 View Kullanımı
+Laravel 5.2 Controllardan Viewe Veri Gönderimi
